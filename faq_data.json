@@ -1,0 +1,51 @@
+[
+    {
+        "question": "Kaip atidaryti sąskaitą?",
+        "answer": "Sąskaitą galite atidaryti internetu per mūsų svetainę, atvykę į bet kurį filialą arba paskambinę klientų aptarnavimo centrui. Reikės asmens dokumento ir užpildyti paraišką. Sąskaitos atidarymas užtrunka apie 15-20 minučių."
+    },
+    {
+        "question": "Kokie yra sąskaitos valdymo mokesčiai?",
+        "answer": "Standartinės sąskaitos valdymo mėnesinis mokestis yra 2.50 EUR. Studentams ir pensininkams taikoma 50% nuolaida. Pirmieji 3 mėnesiai po sąskaitos atidarymo yra nemokami."
+    },
+    {
+        "question": "Kaip gauti internetinio banko prieigą?",
+        "answer": "Internetinio banko prieigą galite gauti atvykę į filialą su asmens dokumentu arba užsiregistravę internetu. Gavę prieigos duomenis, galėsite prisijungti per mūsų svetainę arba mobiliąją programėlę."
+    },
+    {
+        "question": "Kiek kainuoja pavedimas į kitą banką?",
+        "answer": "SEPA pavedimai į kitus Europos bankus yra nemokami. Skubiems pavedimams taikomas 5 EUR mokestis. Pavedimai tarp mūsų banko sąskaitų yra visiškai nemokami."
+    },
+    {
+        "question": "Kaip pakeisti PIN kodą?",
+        "answer": "PIN kodą galite pakeisti bet kuriame bankomate arba atvykę į filialą. Taip pat galite pakeisti PIN kodą per internetinį banką, jei turite mobiliojo banko programėlę su biometrine autentifikacija."
+    },
+    {
+        "question": "Kokios yra kredito kortelės palūkanos?",
+        "answer": "Standartinės kredito kortelės metinė palūkanų norma yra 18.9%. Tačiau jei grąžinate visą sumą iki atsiskaitymo datos, palūkanos neskaičiuojamos. Yra ir specialių pasiūlymų su mažesnėmis palūkanomis."
+    },
+    {
+        "question": "Kaip užsisakyti debeto kortelę?",
+        "answer": "Debeto kortelę galite užsisakyti per internetinį banką, mobiliąją programėlę arba atvykę į filialą. Kortelė bus išduota per 5-7 darbo dienas ir pristatyta jūsų nurodytu adresu arba galite ją paimti filiale."
+    },
+    {
+        "question": "Kokie yra indėlių palūkanų normos?",
+        "answer": "Indėlių palūkanų normos priklauso nuo indėlio termino ir sumos. Trumpalaikiams indėliams (iki 1 metų) palūkanų norma yra 2.5-3.5% per metus, o ilgalaikiams (virš 1 metų) - 3.5-4.5% per metus. Tikslų informaciją galite gauti konsultuojantis su specialistu."
+    },
+    {
+        "question": "Kaip atšaukti pavedimą?",
+        "answer": "Jei pavedimas dar nebuvo apdorotas, galite jį atšaukti per internetinį banką arba paskambinę klientų aptarnavimo centrui. Jei pavedimas jau apdorotas, reikės kreiptis raštu su prašymu atšaukti operaciją."
+    },
+    {
+        "question": "Ką daryti, jei praradau kortelę?",
+        "answer": "Jei praradote kortelę, nedelsiant paskambinkite į 24/7 kortelių blokavimo tarnybą telefonu 1888 arba blokuokite ją per internetinį banką. Kortelė bus blokuota akimirksniu, o naują galėsite užsisakyti per internetinį banką arba filiale."
+    },
+    {
+        "question": "Kaip gauti banko išrašą?",
+        "answer": "Banko išrašą galite gauti per internetinį banką (PDF formatu), bet kuriame bankomate arba atvykę į filialą. Internetinio banko išrašai yra nemokami, o spausdinti filiale - 1 EUR už puslapį."
+    },
+    {
+        "question": "Kokie yra bankomato mokesčiai?",
+        "answer": "Mūsų banko kortelėmis pinigų išėmimas iš mūsų banko bankomatų yra nemokamas. Iš kitų bankų bankomatų mokestis yra 1.50 EUR už operaciją. Užsienio bankomatuose mokestis gali skirtis priklausomai nuo šalies."
+    }
+]
+
