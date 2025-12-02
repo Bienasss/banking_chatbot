@@ -3,6 +3,12 @@ Streamlit web interface for Banking FAQ Chatbot.
 """
 
 import streamlit as st
+import warnings
+import sys
+
+# Suppress asyncio event loop warnings (common during Streamlit shutdown)
+warnings.filterwarnings('ignore', category=RuntimeWarning, message='.*Event loop.*')
+
 from chatbot import BankingChatbot
 
 # Page configuration
@@ -46,12 +52,23 @@ st.markdown("Sveiki! Aš esu jūsų banko asistentas. Užduokite klausimą, ir a
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
-    st.session_state.chatbot = load_chatbot(use_fasttext=use_fasttext)
+
+# Initialize chatbot
+if "chatbot" not in st.session_state:
+    try:
+        st.session_state.chatbot = load_chatbot(use_fasttext=use_fasttext)
+        st.session_state.use_fasttext = use_fasttext
+    except Exception as e:
+        st.error(f"Klaida inicializuojant chatbot: {e}")
+        st.stop()
 
 # Reload chatbot if FastText setting changed
 if st.session_state.get("use_fasttext") != use_fasttext:
-    st.session_state.chatbot = load_chatbot(use_fasttext=use_fasttext)
-    st.session_state.use_fasttext = use_fasttext
+    try:
+        st.session_state.chatbot = load_chatbot(use_fasttext=use_fasttext)
+        st.session_state.use_fasttext = use_fasttext
+    except Exception as e:
+        st.error(f"Klaida perkraunant chatbot: {e}")
 
 # Display chat history
 for message in st.session_state.messages:
@@ -68,8 +85,14 @@ if prompt := st.chat_input("Užduokite klausimą..."):
     # Get chatbot response
     with st.chat_message("assistant"):
         with st.spinner("Galvoju..."):
-            response = st.session_state.chatbot.get_response(prompt)
-            st.markdown(response)
+            try:
+                response = st.session_state.chatbot.get_response(prompt)
+                st.markdown(response)
+            except Exception as e:
+                error_msg = f"Atsiprašau, įvyko klaida apdorojant jūsų klausimą. Prašome bandyti dar kartą arba kreiptis į klientų aptarnavimo centrą."
+                st.markdown(error_msg)
+                st.error(f"Techninė klaida: {str(e)}")
+                response = error_msg
     
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response})
@@ -96,8 +119,13 @@ for i, question in enumerate(example_questions):
             
             with st.chat_message("assistant"):
                 with st.spinner("Galvoju..."):
-                    response = st.session_state.chatbot.get_response(question)
-                    st.markdown(response)
+                    try:
+                        response = st.session_state.chatbot.get_response(question)
+                        st.markdown(response)
+                    except Exception as e:
+                        error_msg = f"Atsiprašau, įvyko klaida apdorojant klausimą."
+                        st.markdown(error_msg)
+                        response = error_msg
             
             st.session_state.messages.append({"role": "assistant", "content": response})
             st.rerun()

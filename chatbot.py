@@ -15,12 +15,20 @@ from sklearn.metrics.pairwise import cosine_similarity
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt', quiet=True)
+    try:
+        nltk.download('punkt', quiet=True)
+    except Exception as e:
+        print(f"Warning: Could not download punkt tokenizer: {e}")
+        print("The app will use a fallback tokenization method.")
 
 try:
     nltk.data.find('corpora/stopwords')
 except LookupError:
-    nltk.download('stopwords', quiet=True)
+    try:
+        nltk.download('stopwords', quiet=True)
+    except Exception as e:
+        print(f"Warning: Could not download stopwords: {e}")
+        print("The app will use a basic stopword list.")
 
 
 class BankingChatbot:
@@ -40,15 +48,20 @@ class BankingChatbot:
         self.answers = [item["answer"] for item in self.faq_data]
         
         # Lithuanian stopwords
+        self.stop_words = set()
         try:
             self.stop_words = set(stopwords.words('lithuanian'))
-        except LookupError:
-            nltk.download('stopwords', quiet=True)
+        except (LookupError, Exception):
             try:
+                nltk.download('stopwords', quiet=True)
                 self.stop_words = set(stopwords.words('lithuanian'))
-            except LookupError:
-                # Fallback to English if Lithuanian not available
-                self.stop_words = set(stopwords.words('english'))
+            except (LookupError, Exception):
+                try:
+                    # Fallback to English if Lithuanian not available
+                    self.stop_words = set(stopwords.words('english'))
+                except (LookupError, Exception):
+                    # Final fallback: use minimal stopword list
+                    self.stop_words = set()
         
         # Add common Lithuanian stopwords manually if needed
         self.stop_words.update(['ir', 'bei', 'arba', 'taip', 'ne', 'kad', 'kur', 'kaip', 'kokie', 'kokia'])
@@ -77,11 +90,17 @@ class BankingChatbot:
         Returns:
             List of processed tokens
         """
+        import re
+        
         # Convert to lowercase
         text = text.lower()
         
-        # Tokenize
-        tokens = word_tokenize(text)
+        # Tokenize - try NLTK first, fallback to regex if it fails
+        try:
+            tokens = word_tokenize(text)
+        except Exception:
+            # Fallback to simple regex tokenization if NLTK fails
+            tokens = re.findall(r'\b\w+\b', text)
         
         # Remove stopwords and non-alphabetic tokens
         tokens = [
