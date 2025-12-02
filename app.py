@@ -14,7 +14,6 @@ from chatbot import BankingChatbot
 # Page configuration
 st.set_page_config(
     page_title="Banking FAQ Chatbot",
-    page_icon="🏦",
     layout="centered"
 )
 
@@ -26,11 +25,11 @@ def load_chatbot(use_fasttext=False):
 
 # Sidebar for settings
 with st.sidebar:
-    st.header("⚙️ Nustatymai")
+    st.header("Nustatymai")
     use_fasttext = st.checkbox("Naudoti FastText (vietoj Word2Vec)", value=False)
     
     st.markdown("---")
-    st.markdown("### 📚 Informacija")
+    st.markdown("### Informacija")
     st.markdown("""
     Šis chatbot naudoja Word2Vec/FastText embeddings 
     semantiniam panašumui nustatyti.
@@ -46,7 +45,7 @@ with st.sidebar:
     """)
 
 # Main interface
-st.title("🏦 Banking FAQ Chatbot")
+st.title("Banking FAQ Chatbot")
 st.markdown("Sveiki! Aš esu jūsų banko asistentas. Užduokite klausimą, ir aš pabandysiu jums padėti.")
 
 # Initialize chat history
@@ -99,13 +98,13 @@ if prompt := st.chat_input("Užduokite klausimą..."):
 
 # Example questions
 st.markdown("---")
-st.markdown("### 💡 Pavyzdiniai klausimai:")
+st.markdown("### Pavyzdiniai klausimai:")
 example_questions = [
-    "Kaip atidaryti sąskaitą?",
-    "Kokie yra sąskaitos valdymo mokesčiai?",
-    "Kaip gauti internetinio banko prieigą?",
-    "Kiek kainuoja pavedimas į kitą banką?",
-    "Kaip pakeisti PIN kodą?"
+    "Kaip atsidaryti banko sąskaitą?",
+    "Kokios yra būsto paskolos palūkanos?",
+    "Kiek kainuoja SEPA pavedimas?",
+    "Ar indėliai apdrausti?",
+    "Ar galima keisti kortelės PIN kodą?"
 ]
 
 cols = st.columns(len(example_questions))

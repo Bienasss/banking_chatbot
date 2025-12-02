@@ -1,51 +1,2502 @@
 [
     {
-        "question": "Kaip atidaryti sąskaitą?",
-        "answer": "Sąskaitą galite atidaryti internetu per mūsų svetainę, atvykę į bet kurį filialą arba paskambinę klientų aptarnavimo centrui. Reikės asmens dokumento ir užpildyti paraišką. Sąskaitos atidarymas užtrunka apie 15-20 minučių."
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
     },
     {
-        "question": "Kokie yra sąskaitos valdymo mokesčiai?",
-        "answer": "Standartinės sąskaitos valdymo mėnesinis mokestis yra 2.50 EUR. Studentams ir pensininkams taikoma 50% nuolaida. Pirmieji 3 mėnesiai po sąskaitos atidarymo yra nemokami."
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną."
     },
     {
-        "question": "Kaip gauti internetinio banko prieigą?",
-        "answer": "Internetinio banko prieigą galite gauti atvykę į filialą su asmens dokumentu arba užsiregistravę internetu. Gavę prieigos duomenis, galėsite prisijungti per mūsų svetainę arba mobiliąją programėlę."
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija."
     },
     {
-        "question": "Kiek kainuoja pavedimas į kitą banką?",
-        "answer": "SEPA pavedimai į kitus Europos bankus yra nemokami. Skubiems pavedimams taikomas 5 EUR mokestis. Pavedimai tarp mūsų banko sąskaitų yra visiškai nemokami."
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija? Gal galite paaiškinti detaliau?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
     },
     {
-        "question": "Kaip pakeisti PIN kodą?",
-        "answer": "PIN kodą galite pakeisti bet kuriame bankomate arba atvykę į filialą. Taip pat galite pakeisti PIN kodą per internetinį banką, jei turite mobiliojo banko programėlę su biometrine autentifikacija."
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
     },
     {
-        "question": "Kokios yra kredito kortelės palūkanos?",
-        "answer": "Standartinės kredito kortelės metinė palūkanų norma yra 18.9%. Tačiau jei grąžinate visą sumą iki atsiskaitymo datos, palūkanos neskaičiuojamos. Yra ir specialių pasiūlymų su mažesnėmis palūkanomis."
+        "topic": "rizika",
+        "question": "Kokia tvarka bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją."
     },
     {
-        "question": "Kaip užsisakyti debeto kortelę?",
-        "answer": "Debeto kortelę galite užsisakyti per internetinį banką, mobiliąją programėlę arba atvykę į filialą. Kortelė bus išduota per 5-7 darbo dienas ir pristatyta jūsų nurodytu adresu arba galite ją paimti filiale."
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
     },
     {
-        "question": "Kokie yra indėlių palūkanų normos?",
-        "answer": "Indėlių palūkanų normos priklauso nuo indėlio termino ir sumos. Trumpalaikiams indėliams (iki 1 metų) palūkanų norma yra 2.5-3.5% per metus, o ilgalaikiams (virš 1 metų) - 3.5-4.5% per metus. Tikslų informaciją galite gauti konsultuojantis su specialistu."
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Išsamesnė informacija pateikiama mūsų tinklalapyje."
     },
     {
-        "question": "Kaip atšaukti pavedimą?",
-        "answer": "Jei pavedimas dar nebuvo apdorotas, galite jį atšaukti per internetinį banką arba paskambinę klientų aptarnavimo centrui. Jei pavedimas jau apdorotas, reikės kreiptis raštu su prašymu atšaukti operaciją."
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Išsamesnė informacija pateikiama mūsų tinklalapyje."
     },
     {
-        "question": "Ką daryti, jei praradau kortelę?",
-        "answer": "Jei praradote kortelę, nedelsiant paskambinkite į 24/7 kortelių blokavimo tarnybą telefonu 1888 arba blokuokite ją per internetinį banką. Kortelė bus blokuota akimirksniu, o naują galėsite užsisakyti per internetinį banką arba filiale."
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
     },
     {
-        "question": "Kaip gauti banko išrašą?",
-        "answer": "Banko išrašą galite gauti per internetinį banką (PDF formatu), bet kuriame bankomate arba atvykę į filialą. Internetinio banko išrašai yra nemokami, o spausdinti filiale - 1 EUR už puslapį."
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
     },
     {
-        "question": "Kokie yra bankomato mokesčiai?",
-        "answer": "Mūsų banko kortelėmis pinigų išėmimas iš mūsų banko bankomatų yra nemokamas. Iš kitų bankų bankomatų mokestis yra 1.50 EUR už operaciją. Užsienio bankomatuose mokestis gali skirtis priklausomai nuo šalies."
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija? Gal galite paaiškinti detaliau?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas??",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kokia tvarka užsisakyti naują debeto kortelę??",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokia tvarka pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę?",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui? Gal galite paaiškinti detaliau?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška? Gal galite paaiškinti detaliau?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas??",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija? Gal galite paaiškinti detaliau?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę??",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę?",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas? Gal galite paaiškinti detaliau?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kas nutinka jeigu daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas? Gal galite paaiškinti detaliau?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos?",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas??",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kokia tvarka bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką? Gal galite paaiškinti detaliau?",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete? Gal galite paaiškinti detaliau?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę??",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas? Gal galite paaiškinti detaliau?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos? Gal galite paaiškinti detaliau?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokia tvarka pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą? Gal galite paaiškinti detaliau?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška? Gal galite paaiškinti detaliau?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kokia tvarka bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete? Gal galite paaiškinti detaliau?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas??",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kas nutinka jeigu daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką?",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška? Gal galite paaiškinti detaliau?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui? Gal galite paaiškinti detaliau?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas??",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija? Gal galite paaiškinti detaliau?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kokia tvarka bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui? Gal galite paaiškinti detaliau?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete? Gal galite paaiškinti detaliau?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką? Gal galite paaiškinti detaliau?",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas??",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą? Gal galite paaiškinti detaliau?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos? Gal galite paaiškinti detaliau?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška? Gal galite paaiškinti detaliau?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos?",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kas nutinka jeigu daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas? Gal galite paaiškinti detaliau?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kas nutinka jeigu daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija? Gal galite paaiškinti detaliau?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas?",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka atpažinti sukčiavimo laiškus??",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą? Gal galite paaiškinti detaliau?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete? Gal galite paaiškinti detaliau?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui? Gal galite paaiškinti detaliau?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą??",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę??",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos??",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokia tvarka pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kas nutinka jeigu daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kokia tvarka bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška? Gal galite paaiškinti detaliau?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą? Gal galite paaiškinti detaliau?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kas nutinka jeigu daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą? Gal galite paaiškinti detaliau?",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui? Gal galite paaiškinti detaliau?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kas nutinka jeigu daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą? Gal galite paaiškinti detaliau?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kokia tvarka bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos? Gal galite paaiškinti detaliau?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas? Gal galite paaiškinti detaliau?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete? Gal galite paaiškinti detaliau?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kokia tvarka užsisakyti naują debeto kortelę??",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija?",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kiek laiko trunka sąskaitos aktyvavimas? Gal galite paaiškinti detaliau?",
+        "answer": "Aktyvavimas paprastai užtrunka iki 24 valandų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Per kiek laiko įvykdomas pavedimas??",
+        "answer": "Pavedimai tarp mūsų banko vykdomi akimirksniu, kiti — per 1 darbo dieną. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip apsaugoti savo paskyrą internete?",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos?",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti?",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Ar galiu turėti kelias sąskaitas viename banke??",
+        "answer": "Taip, galite turėti kelias sąskaitas — einamąją, taupomąją ar verslo. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Kokios yra indėlių palūkanų normos??",
+        "answer": "Palūkanos priklauso nuo termino ir indėlio tipo. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kaip pateikti paraišką vartojimo kreditui? Gal galite paaiškinti detaliau?",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Ar galima sustabdyti jau išsiųstą pavedimą?",
+        "answer": "Jei pavedimas dar neapdorotas, jį galite atšaukti prisijungę prie interneto banko. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kaip pradėti investuoti per banką? Gal galite paaiškinti detaliau?",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko??",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos? Gal galite paaiškinti detaliau?",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kokia tvarka apsaugoti savo paskyrą internete??",
+        "answer": "Rekomenduojame naudoti dviejų faktorių autentifikaciją ir nesidalinti slaptažodžiais. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus?",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Ar galima grąžinti kreditą anksčiau laiko?",
+        "answer": "Taip, ankstyvas grąžinimas galimas be papildomų mokesčių. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Kaip atpažinti sukčiavimo laiškus? Gal galite paaiškinti detaliau?",
+        "answer": "Bankas niekada neprašo slaptažodžių el. paštu — tokie laiškai dažniausiai yra sukčiavimas."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą??",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kaip bankas vertina kreditų riziką??",
+        "answer": "Vertiname kliento pajamas, įsipareigojimus ir kredito istoriją."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį? Gal galite paaiškinti detaliau?",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška?",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kas nutinka jeigu daryti, jei pametėte banko kortelę??",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar indėliai apdrausti??",
+        "answer": "Taip, indėliai iki 100 000 EUR apdrausti valstybės fondų."
+    },
+    {
+        "topic": "kibernetinis saugumas",
+        "question": "Ką daryti įtariant sukčiavimą??",
+        "answer": "Nedelsiant susisiekite su mūsų klientų aptarnavimo centru. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kokia tvarka atsidaryti banko sąskaitą??",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "indėliai",
+        "question": "Ar galiu nutraukti terminuotą indėlį??",
+        "answer": "Taip, tačiau palūkanos tokiu atveju gali būti nepritaikytos. Išsamesnė informacija pateikiama mūsų tinklalapyje."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kodėl gali būti atmesta paskolos paraiška??",
+        "answer": "Dažniausios priežastys — nepakankamos pajamos arba prasta kredito istorija."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ar galima keisti kortelės PIN kodą?",
+        "answer": "Taip, PIN galite pasikeisti bankomate arba programėlėje."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Kaip užsisakyti naują debeto kortelę? Gal galite paaiškinti detaliau?",
+        "answer": "Kortelę galite užsisakyti per internetinį banką arba filiale."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Ar bankas siūlo investicinius fondus??",
+        "answer": "Taip, siūlome platų investicinių fondų pasirinkimą — nuo rizikingų iki konservatyvių. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas?",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Jei reikia, galite kreiptis į konsultantą."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokios yra būsto paskolos palūkanos? Gal galite paaiškinti detaliau?",
+        "answer": "Palūkanos priklauso nuo kliento rizikos vertinimo ir rinkos sąlygų. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kreditai",
+        "question": "Kokia tvarka pateikti paraišką vartojimo kreditui??",
+        "answer": "Paraišką galite pateikti internetu, įkeldami reikalingus dokumentus."
+    },
+    {
+        "topic": "sąskaitos",
+        "question": "Kaip atsidaryti banko sąskaitą?",
+        "answer": "Sąskaitą galite atsidaryti internetu arba filiale, pateikę asmens dokumentą. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "kortelės",
+        "question": "Ką daryti, jei pametėte banko kortelę?",
+        "answer": "Nedelsiant užblokuokite kortelę per programėlę arba skambinkite į pagalbos liniją."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokia tvarka pradėti investuoti per banką??",
+        "answer": "Turite atsidaryti investicinę sąskaitą ir pasirinkti investavimo priemones. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "rizika",
+        "question": "Kas yra rizikos klasifikacija??",
+        "answer": "Tai kliento finansinės būklės vertinimo sistema pagal nustatytus kriterijus."
+    },
+    {
+        "topic": "pavedimai",
+        "question": "Kiek kainuoja SEPA pavedimas??",
+        "answer": "SEPA pavedimai Europos Sąjungoje yra nemokami. Sąlygos gali skirtis priklausomai nuo kliento profilio."
+    },
+    {
+        "topic": "investavimas",
+        "question": "Kokios yra investavimo rizikos??",
+        "answer": "Investicijų vertė gali svyruoti, todėl galimas kapitalo praradimas."
     }
 ]
-

@@ -46,6 +46,8 @@ class BankingChatbot:
         self.faq_data = self._load_faq_data(faq_file)
         self.questions = [item["question"] for item in self.faq_data]
         self.answers = [item["answer"] for item in self.faq_data]
+        # Extract topics if available (backward compatible)
+        self.topics = [item.get("topic", None) for item in self.faq_data]
         
         # Lithuanian stopwords
         self.stop_words = set()
@@ -185,7 +187,7 @@ class BankingChatbot:
         
         return np.array(embeddings)
     
-    def find_best_match(self, user_input: str, threshold: float = 0.3) -> Tuple[Optional[str], float]:
+    def find_best_match(self, user_input: str, threshold: float = 0.3) -> Tuple[Optional[str], float, Optional[str]]:
         """
         Find the best matching FAQ answer for user input.
         
@@ -194,13 +196,13 @@ class BankingChatbot:
             threshold: Minimum similarity threshold
             
         Returns:
-            Tuple of (answer, similarity_score) or (None, 0.0) if no match found
+            Tuple of (answer, similarity_score, topic) or (None, 0.0, None) if no match found
         """
         # Preprocess user input
         processed_input = self._preprocess_text(user_input)
         
         if not processed_input:
-            return None, 0.0
+            return None, 0.0, None
         
         # Get embedding for user input
         user_embedding = self._get_sentence_embedding(processed_input)
@@ -214,26 +216,59 @@ class BankingChatbot:
         best_similarity = similarities[best_idx]
         
         if best_similarity >= threshold:
-            return self.answers[best_idx], best_similarity
+            topic = self.topics[best_idx] if best_idx < len(self.topics) else None
+            return self.answers[best_idx], best_similarity, topic
         
-        return None, best_similarity
+        return None, best_similarity, None
     
-    def get_response(self, user_input: str) -> str:
+    def get_response(self, user_input: str, include_topic: bool = False) -> str:
         """
         Get chatbot response for user input.
         
         Args:
             user_input: User's question
+            include_topic: If True, include topic information in response
             
         Returns:
-            Chatbot response
+            Chatbot response (with optional topic prefix)
         """
-        answer, similarity = self.find_best_match(user_input)
+        answer, similarity, topic = self.find_best_match(user_input)
         
         if answer:
+            if include_topic and topic:
+                return f"[{topic.upper()}] {answer}"
             return answer
         else:
             return "Atsiprašau, bet negaliu rasti tinkamo atsakymo į jūsų klausimą. Prašome kreiptis į klientų aptarnavimo centrą telefonu 1888 arba atvykti į filialą."
+    
+    def get_available_topics(self) -> List[str]:
+        """
+        Get list of unique topics from FAQ data.
+        
+        Returns:
+            List of unique topic names (empty list if no topics)
+        """
+        unique_topics = list(set([topic for topic in self.topics if topic is not None]))
+        return sorted(unique_topics)
+    
+    def get_response_with_metadata(self, user_input: str) -> dict:
+        """
+        Get chatbot response with metadata (answer, topic, similarity score).
+        
+        Args:
+            user_input: User's question
+            
+        Returns:
+            Dictionary with 'answer', 'topic', and 'similarity' keys
+        """
+        answer, similarity, topic = self.find_best_match(user_input)
+        
+        return {
+            "answer": answer if answer else "Atsiprašau, bet negaliu rasti tinkamo atsakymo į jūsų klausimą. Prašome kreiptis į klientų aptarnavimo centrą telefonu 1888 arba atvykti į filialą.",
+            "topic": topic,
+            "similarity": float(similarity),
+            "found": answer is not None
+        }
 
 
 if __name__ == "__main__":
@@ -241,11 +276,11 @@ if __name__ == "__main__":
     chatbot = BankingChatbot(use_fasttext=False)
     
     test_questions = [
-        "Kaip atidaryti sąskaitą?",
-        "Kokie mokesčiai už sąskaitą?",
-        "Kaip gauti internetinio banko prieigą?",
-        "Kiek kainuoja pavedimas?",
-        "Kaip pakeisti PIN kodą?"
+        "Kaip atsidaryti banko sąskaitą?",
+        "Kokios yra būsto paskolos palūkanos?",
+        "Kiek kainuoja SEPA pavedimas?",
+        "Ar indėliai apdrausti?",
+        "Ar galima keisti kortelės PIN kodą?"
     ]
     
     print("Banking Chatbot - Test Run\n")
